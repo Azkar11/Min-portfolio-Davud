@@ -216,6 +216,27 @@ span {
     color: #b74b4b;
 }
 
+/* Projekt-lista */
+
+.project-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.project-list li {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #030703;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(114, 199, 111);
+}
+
+.project-list b {
+    color: #b74b4b;
+}
+
 /* Responsiv design för skärmar under 1000px */
 @media (max-width: 1000px) {
     .home {

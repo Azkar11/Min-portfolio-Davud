@@ -29,4 +29,4 @@ Denna sida skapades med följande tekniker och verktyg:
 - **Responsiv Design**: Sidan är designad för att fungera bra på både stora och små skärmar. Media queries användes för att anpassa layouten.
 - **Navigering**: En fixerad header skapades för att göra det enkelt att navigera mellan olika delar av sidan.
 - **Hover-effekter**: Enkla hover-effekter lades till för att förbättra användarupplevelsen.
-- **Jag har använt mig av Font Awesome för mina fonts
+- **Font-Awesome**: Jag har använt mig av Font Awesome för mina fonts

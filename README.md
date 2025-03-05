@@ -1,6 +1,6 @@
 # Portfolio
 
-Välkommen till mitt portfolio! Här hittar du information om hur du navigerar runt på sidan och hur denna sida skapades.
+Välkommen till mitt portfolio! Det är en svart röd tema sida. Här hittar du information om hur du navigerar runt på sidan och hur denna sida skapades.
 
 ---
 
